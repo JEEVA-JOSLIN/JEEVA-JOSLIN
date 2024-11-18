@@ -1,7 +1,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, my name is Jeeva Joslin.
 
-I am a Final Year Computer Science Engineering Student 
+I am a Final Year Computer Science and Engineering Student 
 
 ## Technology Stack
 
